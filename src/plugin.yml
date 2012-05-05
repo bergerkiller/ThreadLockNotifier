@@ -1,0 +1,5 @@
+name: Thread Lock Notifier
+main: com.bergerkiller.bukkit.tln.ThreadLockNotifier
+version: 1.00
+author: bergerkiller
+description: Plugin that can log exactly when the main thread gets locked
